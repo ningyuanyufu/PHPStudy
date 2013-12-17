@@ -8,3 +8,4 @@
 
 phpinfo();
 echo "这是测试github的一个例子";
+echo "这是测试github的一个例子";
